@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhijeetbharti1
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning trough cs50
+- 🌱 I'm currently taking the CS50x online course from Harvard University to improve my basic knowledge.
 
 
 <!---
